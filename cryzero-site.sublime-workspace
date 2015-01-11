@@ -1,0 +1,566 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dis",
+				"display"
+			],
+			[
+				"tech",
+				"tech-slider"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"fil",
+				"filter_var"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"file",
+				"file_put_contents"
+			],
+			[
+				"fi",
+				"file_name"
+			],
+			[
+				"files",
+				"file_exists"
+			],
+			[
+				"arr",
+				"array	$… = array (…)"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"tuts",
+				"tuts_sites"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"c",
+				"changeAnims"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "inc/contact-me.php",
+			"settings":
+			{
+				"buffer_size": 2755,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inc/about-me.php",
+			"settings":
+			{
+				"buffer_size": 2468,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "contact.php",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/my.css",
+			"settings":
+			{
+				"buffer_size": 13412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "services.php",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "inc/what-i-do.php",
+			"settings":
+			{
+				"buffer_size": 3796,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/cryzero-test/index.php",
+		"/C/wamp/www/cryzero-test/blog.php",
+		"/C/wamp/www/cryzero-test/blog-single.php",
+		"/C/wamp/www/cryzero-test/inc/footer.php",
+		"/C/wamp/www/cryzero-test/contact.php",
+		"/C/wamp/www/cryzero-test/lib/js/custom.js",
+		"/C/wamp/www/cryzero-test/inc/html-open.php",
+		"/C/wamp/www/cryzero-test/css/my.css",
+		"/C/wamp/www/cryzero-test/inc/contact-me.php",
+		"/C/wamp/www/cryzero-test/about.php",
+		"/C/wamp/www/cryzero-test/inc/blog-entry.php",
+		"/C/wamp/www/cryzero-test/services.php",
+		"/C/wamp/www/cryzero/inc/html-close.php",
+		"/C/wamp/www/cryzero/inc/html-open.php",
+		"/C/wamp/www/cryzero/blog-single.php",
+		"/C/wamp/www/cryzero/login.php",
+		"/C/wamp/www/cryzero/index.php",
+		"/C/wamp/www/cryzero/inc/footer-2.php",
+		"/C/wamp/www/cryzero-test/inc/blog-single.php",
+		"/C/wamp/www/cryzero/inc/header-2.php",
+		"/C/wamp/www/cryzero/inc/blog-entry.php",
+		"/C/wamp/www/cryzero/inc/blog-single.php",
+		"/C/wamp/www/cryzero/css/responsive.css",
+		"/C/wamp/www/cryzero/inc/blog-single-2.php",
+		"/C/wamp/www/cryzero/inc/blog-entry-full.php",
+		"/C/wamp/www/cryzero/inc/blog-page-2.php",
+		"/C/wamp/www/cryzero/inc/blog-page-entry.php",
+		"/C/wamp/www/cryzero/inc/technology-slider.php",
+		"/C/wamp/www/cryzero/inc/blog-page-3",
+		"/C/wamp/www/cryzero/contact.php",
+		"/C/wamp/www/cryzero/inc/contact-me.php",
+		"/C/wamp/www/cryzero/js/custom.js",
+		"/C/wamp/www/cryzero/inc/header.php",
+		"/C/wamp/www/cryzero/css/style.css",
+		"/C/wamp/www/cryzero/blog.php",
+		"/C/wamp/www/cryzero/inc/blog-page.php",
+		"/C/wamp/www/cryzero/inc/about-me.php",
+		"/C/wamp/www/grove/features.html",
+		"/C/wamp/www/grove/css/styles-blue.css",
+		"/C/wamp/www/sheldon/index.html",
+		"/C/wamp/www/grove/features.php",
+		"/C/Users/Miah Alexa/Downloads/Pixma/PIXMA-HTML/HTML/PixmaBoxed/css/theme-responsive.css",
+		"/C/Users/Miah Alexa/Downloads/Pixma/PIXMA-HTML/HTML/PixmaBoxed/css/style.css",
+		"/C/Users/Miah Alexa/Downloads/Pixma/PIXMA-HTML/HTML/PixmaBoxed/index.html",
+		"/C/wamp/www/sheldon/css/style.css",
+		"/C/wamp/www/grove/php/header.php",
+		"/C/wamp/www/sheldon/js/bootstrap.min.js",
+		"/C/wamp/www/grove/index.php",
+		"/C/Users/Miah Alexa/Downloads/Bootstrap 3/bootstrap-master/less/component-animations.less",
+		"/C/wamp/www/phpproject/counter.txt",
+		"/C/wamp/www/phpproject/index.php",
+		"/C/wamp/www/jquerywidgets/tooltip.html",
+		"/C/wamp/www/jquerywidgets/emmetsample.html",
+		"/C/Users/Miah Alexa/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Miah Alexa/AppData/Roaming/Sublime Text 2/Packages/User/HTML.sublime-settings",
+		"/C/Users/Miah Alexa/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/wamp/www/pixmaboxed/index.html",
+		"/C/wamp/www/pixmaboxed/css/style.css",
+		"/C/wamp/www/pixmaboxed/php/premium-postings.php",
+		"/C/wamp/www/pixmaboxed/index.php",
+		"/C/wamp/www/cryzero/css/styles-blue.css",
+		"/C/wamp/www/cryzero/php/features.php",
+		"/C/wamp/www/pixmaboxed/ajax/process.php",
+		"/C/wamp/www/roadflood/php/call-to-action.php",
+		"/C/wamp/www/roadflood/php/footer.php",
+		"/C/wamp/www/roadflood/what-we-do.php",
+		"/C/wamp/www/roadflood/php/blog-content.php",
+		"/C/wamp/www/roadflood/contact-us.php",
+		"/C/wamp/www/roadflood/what_we_do.php",
+		"/C/wamp/www/roadflood/php/statistics.php",
+		"/C/wamp/www/roadflood/index.php",
+		"/C/wamp/www/roadflood/php/header.php",
+		"/C/wamp/www/cryzero-grove/index.php",
+		"/C/wamp/www/cryzero-grove/php/header.php",
+		"/C/wamp/www/cryzero-grove/glyphicons.php",
+		"/C/Users/Miah Alexa/Downloads/Grove - Bootstrap 3 Template/HTML/less/styles-aqua.less",
+		"/C/wamp/www/cryzero-grove/blog-inner.php",
+		"/C/wamp/www/cryzero-grove/404.php",
+		"/C/wamp/www/cryzero-grove/contact.php",
+		"/C/wamp/www/cryzero-grove/buttons.php",
+		"/C/wamp/www/cryzero-grove/faq.php",
+		"/C/wamp/www/cryzero-grove/login.php",
+		"/C/wamp/www/cryzero-grove/portfolio-inner.php",
+		"/C/wamp/www/cryzero-grove/portfolio.php",
+		"/C/wamp/www/cryzero-grove/php/footer.php",
+		"/C/wamp/www/cryzero-grove/about-us.php",
+		"/C/wamp/www/cryzero-grove/features.php",
+		"/C/wamp/www/cryzero-grove/blog.php",
+		"/C/wamp/www/cryzero-grove/comparison.php",
+		"/C/wamp/www/cryzero-grove/pricing.php",
+		"/C/wamp/www/cryzero-grove/php/slider.php",
+		"/C/wamp/www/cryzero-grove/php/pagetitle-sm.php",
+		"/C/wamp/www/cryzero-grove/php/our-clients.php",
+		"/C/wamp/www/cryzero-grove/php/call-to-action.php",
+		"/C/wamp/www/cryzero-grove/php/recent-work.php",
+		"/C/wamp/www/cryzero-grove/php/recent-blog.php",
+		"/C/wamp/www/cryzero-grove/php/features.php",
+		"/C/wamp/www/cryzero-grove/php/recent-work",
+		"/C/wamp/www/cryzero-grove/index.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mycarousel",
+			"modernizr",
+			"inner-sidebar",
+			"blog",
+			"media",
+			"ul",
+			"body",
+			"large-feature",
+			"widewrapper",
+			"container",
+			"main",
+			"team",
+			"our team",
+			"packages",
+			"visits",
+			"//",
+			"visits",
+			"html",
+			"php",
+			"html",
+			"                  ",
+			"html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"water level",
+			"Water Level",
+			"php",
+			"html"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "inc/contact-me.php",
+					"settings":
+					{
+						"buffer_size": 2755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2755,
+								2755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "inc/about-me.php",
+					"settings":
+					{
+						"buffer_size": 2468,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contact.php",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								115,
+								115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/my.css",
+					"settings":
+					{
+						"buffer_size": 13412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12763,
+								12765
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11289.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "services.php",
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "inc/what-i-do.php",
+					"settings":
+					{
+						"buffer_size": 3796,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true
+}

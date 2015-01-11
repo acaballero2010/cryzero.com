@@ -1,0 +1,50 @@
+/* Responsive Media Queries */
+
+@media(min-width: 1200px) {
+	
+
+body {
+    width: 1230px;
+    -webkit-box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 0 10px 0 rgba(0,0,0,0.2);
+    background: url(../img/patterns/whitey.png) repeat;
+    margin: 0 auto;
+}
+
+body #header .main-header .navbar {
+	width:1230px;
+	margin:0 auto;
+}
+
+@media (min-width: 768px) and (max-width: 979px)  {
+
+body {
+	
+	width: 100%;
+}
+
+.navbar-toggle {
+    position: relative;
+    float: none;
+    padding: 9px 10px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    background-color: transparent;
+    border: 1px solid #dddddd;
+    border-radius: 4px;
+    display: block;
+}
+
+
+.navbar-header, .navbar-nav {
+    float: none;
+}
+
+.navbar-collapse.collapse {
+    display: none !important;
+    height: auto !important;
+    overflow: visible !important;
+    padding-bottom: 0;
+}
+
+
